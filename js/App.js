@@ -4,3 +4,5 @@ import World from "./classes/World.js";
 import "../style.css";
 
 const world = new World();
+
+// Path: vite-project/index.html
